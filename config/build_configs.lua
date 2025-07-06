@@ -2,17 +2,6 @@ local common_config = {
   cpp_standard = 23,
   warnings_as_errors = true,
   warnings = {
-    "All",
-    "Extra",
-    "Pedantic",
-    "Conversion",
-    "Shadow",
-    "OldStyleCast",
-    "ExtraSemi",
-    "NonVirtualDtor",
-    "OverloadedVirtual",
-    "StrictNullSentinel",
-    "ZeroAsNullPointerConstant",
   },
 }
 
