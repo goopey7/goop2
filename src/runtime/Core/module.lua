@@ -1,7 +1,7 @@
 local module = {
 	name = "Core",
 	type = "dylib",
-	dependencies = { "spdlog" },
+	dependencies = { "spdlog", "entt" },
 	include_dirs = { "public" },
 }
 
