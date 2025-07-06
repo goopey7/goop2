@@ -1,7 +1,7 @@
 local module = {
 	name = "Window",
 	type = "dylib",
-	dependencies = { "spdlog", "raylib" },
+	dependencies = { "spdlog", "raylib", "ImGui", "rlImGui" },
 	include_dirs = { "public" },
 }
 
